@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    display: flexbox;
+    justify-content: center;
+    
+}
+#container {
+    border-color: black;
+}
+h2{
+    display: inline-block;
+    background: rgb(144,185,122);
+    color: white;
+}
+p {
+    color: rgb(224,173,111);
+}
+input {
+    border-color: rgb(144,185,122);
+}
+button {
+    border-color: rgb(144,185,122);
+    border-width: 2px;
+}
